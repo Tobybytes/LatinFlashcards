@@ -1,0 +1,5282 @@
+[
+  {
+    "Chapter":1.0,
+    "Part of Speech":"pronoun",
+    "Lang":"m\u0113",
+    "English":"me, myself"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"pronoun",
+    "Lang":"quid",
+    "English":"what"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"noun (indeclinable)",
+    "Lang":"nihil, n.",
+    "English":"nothing"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"adverb",
+    "Lang":"n\u014dn",
+    "English":"not"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"adverb",
+    "Lang":"saepe",
+    "English":"often"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"conjunction",
+    "Lang":"s\u012b",
+    "English":"if"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"am\u014d, am\u0101re, am\u0101v\u012b, am\u0101tum",
+    "English":"to love, like (amabo te: please (I will love you))"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"c\u014dgit\u014d, c\u014dgit\u0101re, c\u014dgit\u0101v\u012b, c\u014dgit\u0101tum",
+    "English":"to think, ponder, consider, plan"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"d\u0113be\u014d, d\u0113b\u0113re, d\u0113bu\u012b, d\u0113bitum",
+    "English":"to owe; ought, must"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"d\u014d, dare, ded\u012b, datum",
+    "English":"to give, offer"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"err\u014d, err\u0101re, err\u0101v\u012b, err\u0101tum",
+    "English":"to wander, err, go astray, be mistaken"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"laud\u014d, laud\u0101re, laud\u0101v\u012b, laud\u0101tum",
+    "English":"to praise"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"mone\u014d, mon\u0113re, monu\u012b, monitum",
+    "English":"to remind, advise, warn"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"salve\u014d, salv\u0113re, -, -",
+    "English":"to be well, be in good health (salve and salvete: hello)"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"serv\u014d, serv\u0101re, serv\u0101v\u012b, serv\u0101tum",
+    "English":"to preserve, save, keep, guard"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"c\u014dnserv\u014d, c\u014dnserv\u0101re, c\u014dnserv\u0101v\u012b, c\u014dnserv\u0101tum",
+    "English":"to preserve, conserve, maintain (stronger than servo)"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"terre\u014d, terr\u0113re, terru\u012b, territum",
+    "English":"to frighten, terrify"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"vale\u014d, val\u0113re, valu\u012b, valit\u016brum",
+    "English":"to be strong, have power; be well (vale and valete: good-bye, farewell)"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"vide\u014d, vid\u0113re, v\u012bd\u012b, v\u012bsum",
+    "English":"to see; observe, understand"
+  },
+  {
+    "Chapter":1.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"voc\u014d, voc\u0101re, voc\u0101v\u012b, voc\u0101tum",
+    "English":"to call, summon"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"f\u0101m\u0101, -ae, f.",
+    "English":"rumour, report; fame, reputation"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"f\u014drma, -ae, f.",
+    "English":"form, shape; beauty"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"fort\u016bna, -ae, f.",
+    "English":"fortune, luck"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"\u012bra, -ae, f.",
+    "English":"ire, anger"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"nauta, -ae, m.",
+    "English":"sailor"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"patria, -ae, f.",
+    "English":"fatherland, native land, (one's) country"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"pec\u016bnia, -ae, f.",
+    "English":"money"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"philosophia, -ae, f.",
+    "English":"philosophy (Greek philosophia: love of wisdom)"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"poena, -ae, f.",
+    "English":"penalty, punishment (idiom, poenas dare: to pay the penalty)"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"po\u0113ta, -ae, m.",
+    "English":"poet"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"porta, -ae, f.",
+    "English":"gate, entrance"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"puella, -ae, f.",
+    "English":"girl"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"ros\u0101, -ae, f.",
+    "English":"rose"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"sententia, -ae, f.",
+    "English":"feeling, thought, opinion, vote, sentence"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"v\u012bta, -ae, f.",
+    "English":"life; mode of life"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"adjective",
+    "Lang":"ant\u012bquus, -\u0101, -um",
+    "English":"ancient, old-time"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"adjective",
+    "Lang":"magnus, -\u0101, -um",
+    "English":"large, great, important"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"adjective",
+    "Lang":"meus, -\u0101, -um",
+    "English":"my"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"adjective",
+    "Lang":"multus, -\u0101, -um",
+    "English":"much, many"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"adjective",
+    "Lang":"tuus, -\u0101, -um",
+    "English":"your (used when speaking to one person)"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"conjunction",
+    "Lang":"et",
+    "English":"and (et...et: both...and)"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"conjunction",
+    "Lang":"sed",
+    "English":"but"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"interjection",
+    "Lang":"\u014c",
+    "English":"O!, Oh! (commonly used with the vocative)"
+  },
+  {
+    "Chapter":2.0,
+    "Part of Speech":"preposition",
+    "Lang":"sine",
+    "English":"without (takes ablative)"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"ager, agr\u012b, m.",
+    "English":"field, farm"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"agricola, -ae, m.",
+    "English":"farmer"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"am\u012bca, -ae, f.",
+    "English":"friend"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"am\u012bcus, -\u012b, m.",
+    "English":"friend"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"f\u0113min\u0101, -ae, f.",
+    "English":"woman"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"f\u012blia, -ae, f.",
+    "English":"daughter (dative and ablative plural, filiabus)"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"f\u012blius, -i\u012b, m.",
+    "English":"son"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"numerus, -\u012b, m.",
+    "English":"number"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"populus, -\u012b, m.",
+    "English":"the people, a people, a nation"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"puer, puer\u012b, m.",
+    "English":"boy; boys, children"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"sapientia, -ae, f.",
+    "English":"wisdom"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"vir, vir\u012b, m.",
+    "English":"man, hero"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"adjective",
+    "Lang":"av\u0101rus, -\u0101, -um",
+    "English":"greedy, avaricious"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"adjective",
+    "Lang":"pauc\u012b, -ae, -\u0101",
+    "English":"few, a few (usually plural)"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"adjective",
+    "Lang":"R\u014dm\u0101nus, -\u0101, -um",
+    "English":"Roman"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"preposition",
+    "Lang":"d\u0113",
+    "English":"down from, from; concerning, about (takes ablative)"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"preposition",
+    "Lang":"in (+ abl.)",
+    "English":"in, on (takes ablative)"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"adverb",
+    "Lang":"hodi\u0113",
+    "English":"today"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"adverb",
+    "Lang":"semper",
+    "English":"always"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"habe\u014d, hab\u0113re, habu\u012b, habitum",
+    "English":"to have, hold, possess, consider, regard"
+  },
+  {
+    "Chapter":3.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"sati\u014d, sati\u0101re, sati\u0101v\u012b, sati\u0101tum",
+    "English":"to satisfy, sate"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"b\u0101sium, -i\u012b, n.",
+    "English":"kiss"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"bellum, -\u012b, n.",
+    "English":"war"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"c\u014dnsilium, -i\u012b, n.",
+    "English":"plan, purpose, counsel, advice, judgement, wisdom"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"c\u016bra, -ae, f.",
+    "English":"care, attention, caution, anxiety"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"d\u014dnum, -\u012b, n.",
+    "English":"gift, present"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"exitium, -i\u012b, n.",
+    "English":"destruction, ruin"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"magister, magistr\u012b, m.",
+    "English":"schoolmaster, teacher, master"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"magistra, -ae, f.",
+    "English":"school mistress, teacher, mistress"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"mora, -ae, f.",
+    "English":"delay"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (indeclinable)",
+    "Lang":"nihil, n.",
+    "English":"nothing"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"oculus, -\u012b, m.",
+    "English":"eye"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"officium, -i\u012b, n.",
+    "English":"duty, service"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"\u014dtium, -i\u012b, n.",
+    "English":"leisure, peace"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"per\u012bculum, -\u012b, n.",
+    "English":"danger, risk"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"remedium, -i\u012b, n.",
+    "English":"cure, remedy"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"bellus, -\u0101, -um",
+    "English":"pretty, handsome, charming"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"bonus, -\u0101, -um",
+    "English":"good, kind"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"h\u016bm\u0101nus, -\u0101, -um",
+    "English":"pertaining to man, human, humane, kind, refined, cultivated"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"malus, -\u0101, -um",
+    "English":"bad, wicked, evil"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"parvus, -\u0101, -um",
+    "English":"small, little"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"stultus, -\u0101, -um",
+    "English":"foolish"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"stultus, -\u012b, m.",
+    "English":"a fool"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"adjective",
+    "Lang":"v\u0113rus, -\u0101, -um",
+    "English":"true, real, proper"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"iuv\u014d, iuv\u0101re, i\u016bv\u012b, i\u016btum",
+    "English":"to help, aid, assist; to please"
+  },
+  {
+    "Chapter":4.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"sum, esse, fu\u012b, fut\u016brum",
+    "English":"to be, exist"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"adul\u0113scenti\u0101, -ae, f.",
+    "English":"youth, young manhood, youthfulness"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"animus, -\u012b, m.",
+    "English":"soul, spirit, mind; (plural) high spirits, pride, courage"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"caelum, -\u012b, n.",
+    "English":"sky, heaven"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"culpa, -ae, f.",
+    "English":"fault, blame"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"gl\u014dria, -ae, f.",
+    "English":"glory, fame"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"verbum, -\u012b, n.",
+    "English":"word"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"pronoun",
+    "Lang":"t\u0113",
+    "English":"you, yourself"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adjective",
+    "Lang":"liber, l\u012bber\u0101, l\u012bberum",
+    "English":"free"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adjective",
+    "Lang":"noster, nostra, nostrum",
+    "English":"our, ours"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adjective",
+    "Lang":"pulcher, pulchra, pulchrum",
+    "English":"beautiful, handsome; fine"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adjective",
+    "Lang":"s\u0101nus, -\u0101, -um",
+    "English":"sound, healthy, sane"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"conjunction",
+    "Lang":"igitur",
+    "English":"therefore, consequently (postpositive)"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"enclitic",
+    "Lang":"-n\u0113",
+    "English":"question (introduces questions the answer to which is uncertain)"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"preposition",
+    "Lang":"propter",
+    "English":"on account of, because of (takes accusative)"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adverb",
+    "Lang":"cr\u0101s",
+    "English":"tomorrow"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adverb",
+    "Lang":"heri",
+    "English":"yesterday"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adverb, conjunction",
+    "Lang":"quand\u014d",
+    "English":"when (si quando: if ever)"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adverb, noun (indeclinable)",
+    "Lang":"satis, n.",
+    "English":"enough, sufficient (-ly)"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"adverb",
+    "Lang":"tum",
+    "English":"then, at that time; thereupon, in the next place"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"c\u0113n\u014d, c\u0113n\u0101re, c\u0113n\u0101v\u012b, c\u0113n\u0101tum",
+    "English":"to dine"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"culp\u014d, culp\u0101re, culp\u0101v\u012b, culp\u0101tum",
+    "English":"to blame, censure"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"remane\u014d, reman\u0113re, rem\u0101ns\u012b, remansum",
+    "English":"to remain, stay behind, abide, continue"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"mane\u014d, man\u0113re, m\u0101ns\u012b, m\u0101nsum",
+    "English":"to remain, stay, abide, continue"
+  },
+  {
+    "Chapter":5.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"super\u014d, super\u0101re, super\u0101v\u012b, super\u0101tum",
+    "English":"to be above, have the upper hand, surpass; overcome, conquer"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"dea, -ae, f.",
+    "English":"goddess"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"deus, -\u012b, m.",
+    "English":"god"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"discipula, -ae, f.",
+    "English":"learner, pupil, student"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"discipulus, -\u012b, m.",
+    "English":"learner, pupil, student"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"\u012bnsidiae, -arum, f.",
+    "English":"ambush, plot, treachery (always plural)"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"liber, libr\u012b, m.",
+    "English":"book"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"tyrannus, -\u012b, m.",
+    "English":"absolute ruler, tyrant"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"vitium, -i\u012b, n.",
+    "English":"fault, crime, vice"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adjective",
+    "Lang":"Graecus, -\u0101, -um",
+    "English":"Greek"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"Graecus, -\u012b, m.",
+    "English":"a Greek"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adjective",
+    "Lang":"perpetuus, -\u0101, -um",
+    "English":"perpetual, lasting, uninterrupted, continuous"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adjective",
+    "Lang":"pl\u0113nus, -\u0101, -um",
+    "English":"full, abundant, generous"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adjective",
+    "Lang":"salvus, -\u0101, -um",
+    "English":"safe, sound"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adjective",
+    "Lang":"secundus, -\u0101, -um",
+    "English":"second; favorable"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adjective",
+    "Lang":"vester, vestra, vestrum",
+    "English":"your, yours (plural)"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"conjunction, enclitic",
+    "Lang":"-que",
+    "English":"and (enclitic) (appended to the second of two words to be joined)"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"conjunction",
+    "Lang":"sed",
+    "English":"but"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adverb, conjunction",
+    "Lang":"ubi",
+    "English":"where, when"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adverb",
+    "Lang":"ibi",
+    "English":"there"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adverb",
+    "Lang":"nunc",
+    "English":"now, today, at present"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"adverb",
+    "Lang":"qu\u0101r\u0113",
+    "English":"because of which thing, therefore, wherefore, why"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"possum, posse, potu\u012b, -",
+    "English":"to be able, can, could, have power"
+  },
+  {
+    "Chapter":6.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"toler\u014d, toler\u0101re, toler\u0101v\u012b, toler\u0101tum",
+    "English":"to bear, endure"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"amor, am\u014dris, m.",
+    "English":"love"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"carmen, carminis, n.",
+    "English":"song, poem"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"c\u012bvit\u0101s, c\u012bvit\u0101tis, f.",
+    "English":"state, citizenship"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"corpus, corporis, n.",
+    "English":"body"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"hom\u014d, hominis, m.",
+    "English":"human being, man"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"labor, lab\u014dris, m.",
+    "English":"labor, work, toil; a work, production"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"littera, -ae, f.",
+    "English":"a letter of the alphabet; (plural) a letter, literature"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"m\u014ds, m\u014dris, m.",
+    "English":"habit, custom, manner; (plural) habits, character"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"n\u014dmen, n\u014dminis, n.",
+    "English":"name"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"p\u0101x, p\u0101cis, f.",
+    "English":"peace"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"r\u0113g\u012bna, -ae, f.",
+    "English":"queen"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"r\u0113x, r\u0113gis, m.",
+    "English":"king"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"tempus, temporis, n.",
+    "English":"time; occasion, opportunity"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"terra, -ae, f.",
+    "English":"earth, ground, land, country"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"uxor, ux\u014dris, f.",
+    "English":"wife"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"virg\u014d, virginis, f.",
+    "English":"maiden, virgin"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"virt\u016bs, virt\u016btis, f.",
+    "English":"manliness, courage, excellence, character, worth, virtue"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"adjective",
+    "Lang":"novus, -\u0101, -um",
+    "English":"new; strange"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"preposition",
+    "Lang":"post",
+    "English":"after, behind (takes accusative)"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"preposition",
+    "Lang":"sub",
+    "English":"under, up under, close to (takes ablative with verbs of rest, takes accusative with verbs of motion)"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"aude\u014d, aud\u0113re, ausus sum, -",
+    "English":"to dare"
+  },
+  {
+    "Chapter":7.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"nec\u014d, nec\u0101re, nec\u0101v\u012b, nec\u0101tum",
+    "English":"to murder, kill"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"Cicer\u014d, Cicer\u014dnis, m.",
+    "English":"Cicero"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"c\u014dpia, -ae, f.",
+    "English":"abundance, supply; (plural) supplies, troops, forces"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"fr\u0101ter, fr\u0101tris, m.",
+    "English":"brother"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"laus, laudis, f.",
+    "English":"praise, glory, fame"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"l\u012bbert\u0101s, l\u012bbert\u0101tis, f.",
+    "English":"liberty"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"rati\u014d, rati\u014dnis, f.",
+    "English":"reckoning, account; reason, judgement, consideration; system; manner, method"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"scr\u012bptor, scr\u012bpt\u014dris, m.",
+    "English":"writer, author"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"soror, sor\u014dris, f.",
+    "English":"sister"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"vict\u014dria, -ae, f.",
+    "English":"victory"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"conjunction",
+    "Lang":"dum",
+    "English":"while"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"preposition",
+    "Lang":"ad",
+    "English":"to, up to, near to (takes accusative)"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"preposition",
+    "Lang":"ex, \u0113",
+    "English":"out of, from, from within; by reason of, on account of (takes ablative)"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"adverb",
+    "Lang":"numquam",
+    "English":"never"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"adverb",
+    "Lang":"tamen",
+    "English":"nevertheless, still"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"ag\u014d, agere, \u0113g\u012b, \u0101ctum",
+    "English":"to drive, lead, do, act; pass, spend (gratias agere: to give thanks)"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"d\u0113m\u014dnstr\u014d, d\u0113m\u014dnstr\u0101re, d\u0113m\u014dnstr\u0101v\u012b, d\u0113m\u014dnstr\u0101tum",
+    "English":"to point out, show, demonstrate"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"disc\u014d, discere, didic\u012b, -",
+    "English":"to learn"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"doce\u014d, doc\u0113re, docu\u012b, doctum",
+    "English":"to teach"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"d\u016bc\u014d, d\u016bcere, d\u016bx\u012b, ductum",
+    "English":"to lead; consider, regard; prolong"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"ger\u014d, gerere, gess\u012b, gestum",
+    "English":"to carry, carry on, manage, conduct, accomplish, perform"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"scr\u012bb\u014d, scr\u012bbere, scr\u012bps\u012b, scr\u012bptum",
+    "English":"to write, compose"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"trah\u014d, trahere, tr\u0101x\u012b, tractum",
+    "English":"to draw, drag, derive"
+  },
+  {
+    "Chapter":8.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"vinc\u014d, vincere, v\u012bc\u012b, v\u012bctum",
+    "English":"to conquer, overcome"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"locus, -\u012b, m.",
+    "English":"place; passage in literature (loca, -orum, n.: places, regions)"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"morbus, -\u012b, m.",
+    "English":"disease, sickness"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"studium, -i\u012b, n.",
+    "English":"eagerness, zeal, pursuit, study"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"pronoun",
+    "Lang":"hic, haec, hoc",
+    "English":"this; the latter; he, she, it, they"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"pronoun",
+    "Lang":"ille, illa, illud",
+    "English":"that; the former; the famous; he, she, it, they"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"pronoun",
+    "Lang":"iste, ista, istud",
+    "English":"that of yours, that; such (sometimes with contemptuous force)"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"al\u012bus, alia, aliud",
+    "English":"other, another (alii...alii: some...others)"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"alter, altera, alterum",
+    "English":"the other (of two), second"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"neuter, neutra, neutrum",
+    "English":"not either, neither"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"n\u016bllus, -\u0101, -um",
+    "English":"not any, no, none"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"s\u014dlus, -\u0101, -um",
+    "English":"alone, only, the only"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"t\u014dtus, -\u0101, -um",
+    "English":"whole, entire"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"\u016bllus, -\u0101, -um",
+    "English":"any"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"\u016bnus, -\u0101, -um",
+    "English":"one, single, alone"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adjective",
+    "Lang":"uter, utra, utrum",
+    "English":"either, which (of two)"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"conjunction",
+    "Lang":"enim",
+    "English":"for, in fact, truly (postpositive)"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"preposition",
+    "Lang":"in (+ acc.)",
+    "English":"into, toward; against (takes accusative or ablative)"
+  },
+  {
+    "Chapter":9.0,
+    "Part of Speech":"adverb",
+    "Lang":"nimis, nimium",
+    "English":"too, too much, excessively"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"am\u012bcitia, -ae, f.",
+    "English":"friendship"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"cupidit\u0101s, cupidit\u0101tis, f.",
+    "English":"desire, longing, passion, cupidity, avarice"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"h\u014dr\u0101, -ae, f.",
+    "English":"hour, time"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"n\u0101t\u016bra, -ae, f.",
+    "English":"nature"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"senect\u016bs, senect\u016bt\u012bs, f.",
+    "English":"old age"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"timor, tim\u014dris, m.",
+    "English":"fear"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"v\u0113rit\u0101s, v\u0113rit\u0101tis, f.",
+    "English":"truth"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"via, -ae, f.",
+    "English":"way, road, street"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"volupt\u0101s, volupt\u0101tis, f.",
+    "English":"pleasure"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"adjective",
+    "Lang":"be\u0101tus, -\u0101, -um",
+    "English":"happy, fortunate, blessed"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"conjunction",
+    "Lang":"quoniam",
+    "English":"since, inasmuch as"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"preposition",
+    "Lang":"cum",
+    "English":"with (takes ablative)"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"audi\u014d, aud\u012bre, aud\u012bv\u012b, aud\u012btum",
+    "English":"to hear, listen to"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"capi\u014d, capere, c\u0113p\u012b, captum",
+    "English":"to take, capture, seize, get"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"d\u012bc\u014d, d\u012bcere, d\u012bx\u012b, dictum",
+    "English":"to say, tell, speak; name, call"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"faci\u014d, facere, f\u0113c\u012b, factum",
+    "English":"to make, do, accomplish"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"fugi\u014d, fugere, f\u016bg\u012b, fugit\u016brum",
+    "English":"to flee, hurry away; go into exile; avoid, shun"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"veni\u014d, ven\u012bre, v\u0113n\u012b, ventum",
+    "English":"to come"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"inveni\u014d, inven\u012bre, inv\u0113n\u012b, inventum",
+    "English":"to come upon, find"
+  },
+  {
+    "Chapter":10.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"v\u012bv\u014d, v\u012bvere, v\u012bx\u012b, v\u012bctum",
+    "English":"to live"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"caput, capitis, n.",
+    "English":"head; leader; beginning; life; heading; chapter"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"c\u014dnsul, c\u014dnsulis, m.",
+    "English":"consul"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"n\u0113m\u014d, n\u0113minis, m. or f.",
+    "English":"no one, nobody"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"pronoun",
+    "Lang":"ego, me\u012b",
+    "English":"I"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"pronoun",
+    "Lang":"t\u016b, tu\u012b",
+    "English":"you"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"pronoun",
+    "Lang":"is, ea, id",
+    "English":"this, that; he, she, it (demonstrative)"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"pronoun",
+    "Lang":"idem, eadem, idem",
+    "English":"the same (demonstrative)"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"adjective",
+    "Lang":"am\u012bcus, -\u0101, -um",
+    "English":"friendly"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"adjective",
+    "Lang":"c\u0101rus, -\u0101, -um",
+    "English":"dear"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"conjunction",
+    "Lang":"quod",
+    "English":"because"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"conjunction",
+    "Lang":"neque, nec",
+    "English":"and not, nor (neque...neque (or nec...nec): neither...nor)"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"conjunction",
+    "Lang":"autem",
+    "English":"however; moreover (postpositive)"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"adverb",
+    "Lang":"bene",
+    "English":"well, satisfactorily, quite"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"adverb",
+    "Lang":"etiam",
+    "English":"even"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"intelleg\u014d, intellegere, intell\u0113x\u012b, intell\u0113ctum",
+    "English":"to understand"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"mitt\u014d, mittere, m\u012bs\u012b, missum",
+    "English":"to send, let go"
+  },
+  {
+    "Chapter":11.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"senti\u014d, sent\u012bre, s\u0113ns\u012b, s\u0113nsum",
+    "English":"to feel, perceive, think, experience"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"adul\u0113sc\u0113ns, adul\u0113scent\u012bs, m.",
+    "English":"young man"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"annus, -\u012b, m.",
+    "English":"year"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"Asi\u0101, -ae, f.",
+    "English":"Asia"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"Caesar, Caesaris, m.",
+    "English":"Caesar"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"m\u0101ter, m\u0101tris, f.",
+    "English":"mother"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"medicus, -\u012b, m.",
+    "English":"doctor, physician"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"medic\u0101, -ae, f.",
+    "English":"doctor, physician"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"pater, patris, m.",
+    "English":"father"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"patientia, -ae, f.",
+    "English":"suffering, patience, endurance"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"pr\u012bncipium, -i\u012b, n.",
+    "English":"beginning"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"adjective",
+    "Lang":"acerbus, -\u0101, -um",
+    "English":"harsh, bitter, grievous"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"preposition",
+    "Lang":"pr\u014d",
+    "English":"in front of, before, on behalf of, for the sake of, in return for, instead of, for, as (takes ablative)"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"adverb",
+    "Lang":"di\u016b",
+    "English":"for a long time"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"adverb",
+    "Lang":"n\u016bper",
+    "English":"recently"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"\u0101mitt\u014d, \u0101mittere, \u0101m\u012bs\u012b, \u0101missum",
+    "English":"to lose, let go"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"cad\u014d, cadere, cecid\u012b, c\u0101s\u016brum",
+    "English":"to fall ('casum' is an alternative fourth principal part)"
+  },
+  {
+    "Chapter":12.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"cre\u014d, cre\u0101re, cre\u0101v\u012b, cre\u0101tum",
+    "English":"to create"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"d\u012bvitiae, -arum, f.",
+    "English":"riches, wealth (always plural)"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"factum, -\u012b, n.",
+    "English":"deed, act, achievement"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"signum, -\u012b, n.",
+    "English":"sign, signal, indication, seal"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"pronoun",
+    "Lang":"ipse, ipsa, ipsum",
+    "English":"myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"pronoun",
+    "Lang":"quisque, quidque",
+    "English":"each one, each person (indefinite)"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"pronoun",
+    "Lang":"su\u012b",
+    "English":"himself, herself, itself, themselves (reflexive)"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"adjective",
+    "Lang":"doctus, -\u0101, -um",
+    "English":"taught, learned, skilled"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"adjective",
+    "Lang":"fort\u016bn\u0101tus, -\u0101, -um",
+    "English":"lucky, fortunate, happy"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"adjective",
+    "Lang":"suus, -\u0101, -um",
+    "English":"his own, her own, its own, their own (reflexive possessive)"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"conjunction",
+    "Lang":"nam",
+    "English":"for"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"adverb",
+    "Lang":"ante",
+    "English":"before, in front of; previously"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"preposition",
+    "Lang":"per",
+    "English":"through (takes accusative)"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"adverb",
+    "Lang":"\u014dlim",
+    "English":"at that time, once, formerly; in the future"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"al\u014d, alere, alu\u012b, altum",
+    "English":"to nourish, support, sustain, increase, cherish"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"d\u012blig\u014d, d\u012bligere, d\u012bl\u0113x\u012b, d\u012bl\u0113ctum",
+    "English":"to esteem, love"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"iung\u014d, iungere, i\u016bnx\u012b, i\u016bnctum",
+    "English":"to join"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"st\u014d, st\u0101re, stet\u012b, statum",
+    "English":"to stand, stand still, stand firm"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"animal, anim\u0101lis, n.",
+    "English":"a living creature, animal"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"aqua, -ae, f.",
+    "English":"water"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"ars, art\u012bs, f.",
+    "English":"art, skill"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"aur\u012bs, aur\u012bs, f.",
+    "English":"ear"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"c\u012bv\u012bs, c\u012bv\u012bs, m. and f.",
+    "English":"citizen"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"i\u016bs, i\u016bris, n.",
+    "English":"right, justice"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"mare, maris, n.",
+    "English":"sea"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"mors, mortis, f.",
+    "English":"death"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"n\u016bb\u0113s, n\u016bbis, f.",
+    "English":"cloud"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"os, \u014dris, n.",
+    "English":"mouth, face"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"pars, part\u012bs, f.",
+    "English":"part, share"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"R\u014dma, -ae, f.",
+    "English":"Rome"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"turba, -ae, f.",
+    "English":"uproar, disturbance, mob, crowd, multitude"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"urbs, urbis, f.",
+    "English":"city"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"v\u012bs, v\u012bs, f.",
+    "English":"force, power, violence"
+  },
+  {
+    "Chapter":13.0,
+    "Part of Speech":"preposition",
+    "Lang":"ab, \u0101",
+    "English":"away from, from; by (takes ablative)"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"preposition",
+    "Lang":"tr\u0101ns",
+    "English":"across (takes accusative)"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"appell\u014d, appell\u0101re, appell\u0101v\u012b, appell\u0101tum",
+    "English":"to speak to, address (as), call, name"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"curr\u014d, currere, cucurr\u012b, cursum",
+    "English":"to run, rush, move quickly"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"m\u016bt\u014d, m\u016bt\u0101re, m\u016bt\u0101v\u012b, m\u016bt\u0101tum",
+    "English":"to change, alter; exchange"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"tene\u014d, ten\u0113re, tenu\u012b, tentum",
+    "English":"to hold, keep, possess; restrain"
+  },
+  {
+    "Chapter":14.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"v\u012bt\u014d, v\u012bt\u0101re, v\u012bt\u0101v\u012b, v\u012bt\u0101tum",
+    "English":"to avoid, shun"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"\u012atalia, -ae, f.",
+    "English":"Italy"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"memori\u0101, -ae, f.",
+    "English":"memory, recollection"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"tempest\u0101s, tempest\u0101tis, f.",
+    "English":"period of time, season; weather, storm"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective",
+    "Lang":"centum",
+    "English":"a hundred"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective",
+    "Lang":"m\u012blle",
+    "English":"thousand; (plural) thousands"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective",
+    "Lang":"miser, misera, miserum",
+    "English":"wretched, miserable, unfortunate"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"preposition",
+    "Lang":"inter",
+    "English":"between, among (takes accusative)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adverb",
+    "Lang":"itaque",
+    "English":"and so, therefore"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"committ\u014d, committere, comm\u012bs\u012b, commissum",
+    "English":"to entrust, commit"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"exspect\u014d, exspect\u0101re, exspect\u0101v\u012b, exspect\u0101tum",
+    "English":"to look for, expect, await"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"iaci\u014d, iacere, i\u0113c\u012b, iactum",
+    "English":"to throw, hurl"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"\u0113ici\u014d, \u0113icere, \u0113i\u0113c\u012b, \u0113iectum",
+    "English":"to throw out, drive out"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"time\u014d, tim\u0113re, timu\u012b, -",
+    "English":"to fear, be afraid of, be afraid"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"\u016bnus, -\u0101, -um",
+    "English":"one"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"duo, duae, duo",
+    "English":"two (always plural)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"tr\u0113s, tria",
+    "English":"three"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"quattuor",
+    "English":"four"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"qu\u012bnque",
+    "English":"five"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"sex",
+    "English":"six"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"septem",
+    "English":"seven"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"octo",
+    "English":"eight"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"novem",
+    "English":"nine"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"decem",
+    "English":"ten"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"\u016bndecim",
+    "English":"eleven"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"duodecim",
+    "English":"twelve"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"tredecim",
+    "English":"thirteen"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"quattuordecim",
+    "English":"fourteen"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"qu\u012bndecim",
+    "English":"fifteen"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"s\u0113decim",
+    "English":"sixteen"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"septendecim",
+    "English":"seventeen"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"duod\u0113v\u012bgint\u012b",
+    "English":"eighteen (literally two from twenty)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"\u016bnd\u0113v\u012bgint\u012b",
+    "English":"nineteen (literally one from twenty)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"v\u012bgint\u012b",
+    "English":"twenty"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"v\u012bgint\u012b \u016bnus",
+    "English":"twenty-one (also unus et viginti)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"v\u012bgint\u012b duo",
+    "English":"twenty-two (also duo et viginti)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"v\u012bgint\u012b tr\u0113s",
+    "English":"twenty-three (also tres et viginti)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"v\u012bgint\u012b quattuor",
+    "English":"twenty-four (also quattuor et viginti)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"v\u012bgint\u012b qu\u012bnque",
+    "English":"twenty-five (also quinque et viginti)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"tr\u012bgint\u0101",
+    "English":"thirty"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"quadr\u0101gint\u0101",
+    "English":"forty"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"qu\u012bnqu\u0101gint\u0101",
+    "English":"fifty"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"sex\u0101gint\u0101",
+    "English":"sixty"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"septu\u0101gint\u0101",
+    "English":"seventy"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"oct\u014dgint\u0101",
+    "English":"eighty"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, cardinal",
+    "Lang":"n\u014dn\u0101gint\u0101",
+    "English":"ninety"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"pr\u012bmus, -\u0101, -um",
+    "English":"first"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"secundus, -\u0101, -um",
+    "English":"second"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"tertius, -\u0101, -um",
+    "English":"third"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"qu\u0101rtus, -\u0101, -um",
+    "English":"fourth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"qu\u012bntus, -\u0101, -um",
+    "English":"fifth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"sextus, -\u0101, -um",
+    "English":"sixth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"septimus, -\u0101, -um",
+    "English":"seventh"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"oct\u0101vus, -\u0101, -um",
+    "English":"eighth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"n\u014dnus, -\u0101, -um",
+    "English":"ninth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"decimus, -\u0101, -um",
+    "English":"tenth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"\u016bndecimus, -\u0101, -um",
+    "English":"eleventh"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"duodecimus, -\u0101, -um",
+    "English":"twelfth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"tertius decimus, -\u0101, -um",
+    "English":"thirteenth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"qu\u0101rtus decimus, -\u0101, -um",
+    "English":"fourteenth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"qu\u012bntus decimus, -\u0101, -um",
+    "English":"fifteenth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"sextus decimus, -\u0101, -um",
+    "English":"sixteenth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"septimus decimus, -\u0101, -um",
+    "English":"seventeenth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"duod\u0113v\u012bc\u0113simus, -\u0101, -um",
+    "English":"eighteenth (literally two from twenty)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"\u016bnd\u0113v\u012bc\u0113simus, -\u0101, -um",
+    "English":"nineteenth (literally one from twenty)"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"v\u012bc\u0113simus, -\u0101, -um",
+    "English":"twentieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"v\u012bc\u0113simus pr\u012bmus, -\u0101, -um",
+    "English":"twenty-first"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"v\u012bc\u0113simus secundus, -\u0101, -um",
+    "English":"twenty-second"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"v\u012bc\u0113simus tertius, -\u0101, -um",
+    "English":"twenty-third"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"v\u012bc\u0113simus qu\u0101rtus, -\u0101, -um",
+    "English":"twenty-fourth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"v\u012bc\u0113simus qu\u012bntus, -\u0101, -um",
+    "English":"twenty-fifth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"tr\u012bc\u0113simus",
+    "English":"thirtieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"quadr\u0101g\u0113simus",
+    "English":"fortieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"qu\u012bnqu\u0101g\u0113simus",
+    "English":"fiftieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"sex\u0101g\u0113simus",
+    "English":"sixtieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"septu\u0101g\u0113simus",
+    "English":"seventieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"oct\u014dg\u0113simus",
+    "English":"eightieth"
+  },
+  {
+    "Chapter":15.0,
+    "Part of Speech":"adjective, ordinal",
+    "Lang":"n\u014dn\u0101g\u0113simus",
+    "English":"ninetieth"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"aet\u0101s, aet\u0101tis, f.",
+    "English":"period of life, life, age, an age, time"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"aud\u012btor, aud\u012bt\u014dris, m.",
+    "English":"hearer, listener, member of an audience"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"cl\u0113mentia, -ae, f.",
+    "English":"mildness, gentleness, mercy"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"m\u0113ns, mentis, f.",
+    "English":"mind, thought, intention"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"satura, -ae, f.",
+    "English":"satire"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"\u0101cer, acr\u012bs, \u0101cre",
+    "English":"sharp, keen, eager; severe, fierce"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"brevis, breve",
+    "English":"short, small, brief"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"celer, celer\u012bs, celere",
+    "English":"swift, quick, rapid"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"difficilis, difficile",
+    "English":"hard, difficult, troublesome"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"dulcis, dulce",
+    "English":"sweet; pleasant, agreeable"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"facilis, facile",
+    "English":"easy, agreeable"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"fortis, forte",
+    "English":"strong, brave"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"ing\u0113ns",
+    "English":"huge (genitive ingentis)"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"i\u016bcundus, -\u0101, -um",
+    "English":"pleasant, delightful, agreeable, pleasing"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"longus, -\u0101, -um",
+    "English":"long"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"omnis, omne",
+    "English":"every, all"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective",
+    "Lang":"pot\u0113ns",
+    "English":"able, powerful, mighty, strong (genitive potentis)"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adjective, noun (3)",
+    "Lang":"senex, senis, m.",
+    "English":"old, aged; old man"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"adverb",
+    "Lang":"quam",
+    "English":"how"
+  },
+  {
+    "Chapter":16.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"reg\u014d, regere, r\u0113x\u012b, r\u0113ctum",
+    "English":"to rule, guide, direct"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"libellus, -\u012b, m.",
+    "English":"little book"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"pronoun",
+    "Lang":"qu\u012b, quae, quod",
+    "English":"who, which, what, that"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"adjective",
+    "Lang":"caecus, -\u0101, -um",
+    "English":"blind"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"adjective",
+    "Lang":"levis, leve",
+    "English":"light, slight, easy, trivial"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"conjunction",
+    "Lang":"aut",
+    "English":"or (aut...aut: either...or)"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"adverb",
+    "Lang":"cito",
+    "English":"quickly"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"adverb",
+    "Lang":"quoque",
+    "English":"also, too"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"admitt\u014d, admittere, adm\u012bs\u012b, admissum",
+    "English":"to admit, receive, let in"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"-, coepisse, coep\u012b, coeptum",
+    "English":"began (only used in the perfect system)"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"cupi\u014d, cupere, cup\u012bv\u012b, cup\u012btum",
+    "English":"to desire, wish, long for"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"d\u0113le\u014d, d\u0113l\u0113re, d\u0113l\u0113v\u012b, d\u0113l\u0113tum",
+    "English":"to destroy, wipe out, erase"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"d\u0113s\u012bder\u014d, d\u0113s\u012bder\u0101re, d\u0113s\u012bder\u0101v\u012b, d\u0113s\u012bder\u0101tum",
+    "English":"to desire, long for, miss"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"incipi\u014d, incipere, inc\u0113p\u012b, inceptum",
+    "English":"to begin"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"n\u0101vig\u014d, n\u0101vig\u0101re, n\u0101vig\u0101v\u012b, n\u0101vig\u0101tum",
+    "English":"to sail, navigate"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"negleg\u014d, neglegere, negl\u0113x\u012b, negl\u0113ctum",
+    "English":"to neglect, disregard"
+  },
+  {
+    "Chapter":17.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"recit\u014d, recit\u0101re, recit\u0101v\u012b, recit\u0101tum",
+    "English":"to read aloud, recite"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"fl\u016bmen, fl\u016bminis, n.",
+    "English":"river"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"genus, generis, n.",
+    "English":"origin, kind, sort, class"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"hostis, hostis, m.",
+    "English":"an enemy; (plural) the enemy"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"l\u016bdus, -\u012b, m.",
+    "English":"game, sport; school"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"probit\u0101s, probit\u0101tis, f.",
+    "English":"uprightness, honesty"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"scienti\u0101, -ae, f.",
+    "English":"knowledge"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"adjective",
+    "Lang":"cl\u0101rus, -\u0101, -um",
+    "English":"clear, bright; renowned, famous, illustrious"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"adjective",
+    "Lang":"mort\u0101l\u012bs, mort\u0101le",
+    "English":"mortal"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"adverb",
+    "Lang":"c\u016br",
+    "English":"why"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"adverb",
+    "Lang":"deinde",
+    "English":"thereupon, next, then"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"flu\u014d, fluere, fl\u016bx\u012b, fl\u016bxum",
+    "English":"to flow"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"l\u0113g\u014d, legere, l\u0113g\u012b, lectum",
+    "English":"to pick out, choose; read"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"misce\u014d, misc\u0113re, miscu\u012b, mixtum",
+    "English":"to mix, stir up, disturb"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"move\u014d, mov\u0113re, m\u014dv\u012b, m\u014dtum",
+    "English":"to move; arouse, affect"
+  },
+  {
+    "Chapter":18.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"videor, vid\u0113r\u012b, v\u012bsus sum, -",
+    "English":"to be seen, seem, appear"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"arg\u016bmentum, -\u012b, n.",
+    "English":"proof, evidence, argument"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"auctor, auct\u014dris, m.",
+    "English":"increaser, author, originator"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"beneficium, -i\u012b, n.",
+    "English":"benefit, kindness; favor"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"familia, -ae, f.",
+    "English":"household, family"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"Graeci\u0101, -ae, f.",
+    "English":"Greece"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"i\u016bdex, i\u016bdicis, m.",
+    "English":"judge, juror"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"i\u016bdicium, -i\u012b, n.",
+    "English":"judgement, decision, opinion; trial"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"scelus, sceleris, n.",
+    "English":"evil deed, crime, sin, wickedness"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"pronoun",
+    "Lang":"quis?, quid?",
+    "English":"who?, whose?, whom?, what?, which?"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"adjective",
+    "Lang":"qu\u012b?, quae?, quod?",
+    "English":"what?, which?, what kind of?"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"adjective",
+    "Lang":"certus, -\u0101, -um",
+    "English":"definite, sure, certain, reliable"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"adjective",
+    "Lang":"grav\u012bs, grave",
+    "English":"heavy, weighty, serious, important, severe, grievous"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"adjective",
+    "Lang":"immort\u0101l\u012bs, immort\u0101le",
+    "English":"not subject to death, immortal"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"conjunction",
+    "Lang":"at",
+    "English":"but; but, mind you; but, you say"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"conjunction",
+    "Lang":"nisi",
+    "English":"if...not, unless; except"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"preposition",
+    "Lang":"contr\u0101",
+    "English":"against (takes accusative)"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"adverb",
+    "Lang":"iam",
+    "English":"now; already, soon"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"d\u0113lect\u014d, d\u0113lect\u0101re, d\u0113lect\u0101v\u012b, d\u0113lect\u0101tum",
+    "English":"to delight, charm, please"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"l\u012bber\u014d, l\u012bber\u0101re, l\u012bber\u0101v\u012b, l\u012bber\u0101tum",
+    "English":"to free, liberate"
+  },
+  {
+    "Chapter":19.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"par\u014d, par\u0101re, par\u0101v\u012b, par\u0101tum",
+    "English":"to prepare, provide, get, obtain"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"coni\u016br\u0101t\u012b, -\u014drum, m.",
+    "English":"conspirators (always plural)"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"corn\u016b, -us, n.",
+    "English":"horn"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"fr\u016bctus, -us, m.",
+    "English":"fruit, profit, benefit, enjoyment"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"gen\u016b, -us, n.",
+    "English":"knee"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"manus, -us, f.",
+    "English":"hand, band; handwriting"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"metus, -us, m.",
+    "English":"fear, dread, anxiety"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"m\u014dns, mont\u012bs, m.",
+    "English":"mountain"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"sen\u0101tus, -us, m.",
+    "English":"senate"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"s\u0113nsus, -us, m.",
+    "English":"feeling, sense"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"servit\u016bs, servit\u016bt\u012bs, f.",
+    "English":"servitude, slavery"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"sp\u012britus, -us, m.",
+    "English":"breath, breathing; spirit, soul"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"versus, -us, m.",
+    "English":"line of verse"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"adjective",
+    "Lang":"comm\u016bnis, comm\u016bne",
+    "English":"common, general, of the community, for the community"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"adjective",
+    "Lang":"dexter, dextr\u0101, dextrum",
+    "English":"right, right-hand"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"adjective",
+    "Lang":"sinister, sinistr\u0101, sinistrum",
+    "English":"left, left-hand"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"care\u014d, car\u0113re, caru\u012b, carit\u016brus",
+    "English":"to be without, be deprived of, want, lack; be free from (takes ablative of separation)"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"d\u0113fend\u014d, d\u0113fendere, d\u0113fend\u012b, d\u0113f\u0113nsum",
+    "English":"to ward off; defend, protect"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"disc\u0113d\u014d, disc\u0113dere, discess\u012b, discessum",
+    "English":"to go away, depart"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"-, \u014ddisse, \u014dd\u012b, \u014ds\u016brum",
+    "English":"to hate"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"prohibe\u014d, prohib\u0113re, prohibu\u012b, prohibitum",
+    "English":"to keep (back), prevent, hinder, restrain, prohibit"
+  },
+  {
+    "Chapter":20.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"pr\u014dn\u016bnti\u014d, pr\u014dn\u016bnti\u0101re, pr\u014dn\u016bnti\u0101v\u012b, pr\u014dn\u016bnti\u0101tum",
+    "English":"to proclaim, announce; declaim; pronounce"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"casa, -ae, f.",
+    "English":"house, cottage, hut"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"causa, -ae, f.",
+    "English":"cause, reason; case, situation; (abl. causa plus a preceding gen.) for the sake of, on account of"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"fenestra, -ae, f.",
+    "English":"window"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"f\u012bnis, f\u012bnis, m.",
+    "English":"end, limit, boundary, purpose; (plural) boundaries, territory"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"g\u0113ns, gent\u012bs, f.",
+    "English":"clan, race, nation, people"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"mundus, -\u012b, m.",
+    "English":"world, universe"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"n\u0101vis, n\u0101vis, f.",
+    "English":"ship, boat"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"sal\u016bs, sal\u016btis, f.",
+    "English":"health, safety; greeting"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"Troi\u0101, -ae, f.",
+    "English":"Troy"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"v\u012bc\u012bnus, -\u012b, m.",
+    "English":"neighbor"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"v\u012bc\u012bna, -ae, f.",
+    "English":"neighbor"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"vulgus, -\u012b, m.",
+    "English":"the common people, mob, rabble"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"adjective",
+    "Lang":"asper, aspera, asperum",
+    "English":"rough, harsh"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"conjunction",
+    "Lang":"atque, ac",
+    "English":"and, and also, and even"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"adverb",
+    "Lang":"iterum",
+    "English":"again, a second time"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"contine\u014d, contin\u0113re, continu\u012b, contentum",
+    "English":"to hold together, contain, keep, enclose, restrain"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"iube\u014d, iub\u0113re, iuss\u012b, iussum",
+    "English":"to bid, order, command"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"lab\u014dr\u014d, lab\u014dr\u0101re, lab\u014dr\u0101v\u012b, lab\u014dr\u0101tum",
+    "English":"to labor, be in distress"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"rapi\u014d, rapere, rapu\u012b, raptum",
+    "English":"to seize, snatch, carry away"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"relinqu\u014d, relinquere, rel\u012bqu\u012b, relictum",
+    "English":"to leave behind, leave, abandon, desert"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"sci\u014d, sc\u012bre, sc\u012bv\u012b, sc\u012btum",
+    "English":"to know"
+  },
+  {
+    "Chapter":21.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"tang\u014d, tangere, tetig\u012b, t\u0101ctum",
+    "English":"to touch"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (5)",
+    "Lang":"di\u0113s, di\u0113\u012b, m.",
+    "English":"day"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"ferrum, -\u012b, n.",
+    "English":"iron; sword"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (5)",
+    "Lang":"fid\u0113s, fide\u012b, f.",
+    "English":"faith, trust, trustworthiness, fidelity, promise, guarantee, protection"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"ignis, ignis, m.",
+    "English":"fire"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"modus, -\u012b, m.",
+    "English":"measure, bound, limit; manner, method, mode, way"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (5)",
+    "Lang":"r\u0113s, re\u012b, f.",
+    "English":"thing, matter, business, affair"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"noun (5)",
+    "Lang":"sp\u0113s, spe\u012b, f.",
+    "English":"hope"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adjective",
+    "Lang":"aequus, -\u0101, -um",
+    "English":"level, even; calm; equal, just; favorable"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adjective",
+    "Lang":"f\u0113l\u012bx, f\u0113l\u012bcis",
+    "English":"lucky, fortunate, happy"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adjective",
+    "Lang":"incertus, -\u0101, -um",
+    "English":"uncertain, unsure, doubtful"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adjective",
+    "Lang":"Lat\u012bnus, -\u0101, -um",
+    "English":"Latin"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adjective",
+    "Lang":"medius, -\u0101, -um",
+    "English":"middle"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adverb",
+    "Lang":"quondam",
+    "English":"formerly, once"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adverb, preposition",
+    "Lang":"ultr\u0101",
+    "English":"on the other side, beyond (takes accusative)"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"adverb",
+    "Lang":"pr\u014dtinus",
+    "English":"immediately"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"cern\u014d, cernere, cr\u0113v\u012b, cr\u0113tum",
+    "English":"to distinguish, discern, perceive"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"\u0113ripi\u014d, \u0113ripere, \u0113ripu\u012b, \u0113reptum",
+    "English":"to snatch away, take away; rescue"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"inquit, -, -, -",
+    "English":"he says, he said (defective verb placed after one or more words of direct quotation)"
+  },
+  {
+    "Chapter":22.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"toll\u014d, tollere, sustul\u012b, subl\u0101tum",
+    "English":"to raise, lift up; take away, remove, destroy"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"arx, arcis, f.",
+    "English":"citadel, stronghold"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"dux, d\u016bcis, m.",
+    "English":"leader, guide; commander, general"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"equus, -\u012b, m.",
+    "English":"horse"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"hast\u0101, -ae, f.",
+    "English":"spear"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"\u012bnsula, -ae, f.",
+    "English":"island"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"litus, l\u012btoris, n.",
+    "English":"shore, coast"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"m\u012bles, m\u012blitis, m.",
+    "English":"soldier"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"\u014dr\u0101tor, \u014dr\u0101t\u014dris, m.",
+    "English":"orator, speaker"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"sacerd\u014ds, sacerd\u014dt\u012bs, m.",
+    "English":"priest"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"pronoun",
+    "Lang":"aliquis, aliquid",
+    "English":"someone, somebody, something"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"pronoun",
+    "Lang":"quisquis, quidquid",
+    "English":"whoever, whatever"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"adjective",
+    "Lang":"magnanimus, -\u0101, -um",
+    "English":"great-hearted, brave, magnanimous"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"adverb",
+    "Lang":"umquam",
+    "English":"ever, at any time"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"\u0113d\u016bc\u014d, \u0113duc\u0101re, \u0113duc\u0101v\u012b, \u0113duc\u0101tum",
+    "English":"to bring up, educate"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"gaude\u014d, gaud\u0113re, g\u0101v\u012bsus sum, -",
+    "English":"to be glad, rejoice"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"ostend\u014d, ostendere, ostend\u012b, ostentum",
+    "English":"to exhibit, show, display"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"pet\u014d, petere, pet\u012bv\u012b, pet\u012btum",
+    "English":"to seek, aim at, beg, beseech"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"prem\u014d, premere, press\u012b, pressum",
+    "English":"to press, press hard, pursue"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"opprim\u014d, opprimere, oppress\u012b, oppressum",
+    "English":"to suppress, overwhelm, overpower, check"
+  },
+  {
+    "Chapter":23.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"vert\u014d, vertere, vert\u012b, versum",
+    "English":"to turn; change"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"Carth\u0101g\u014d, Carth\u0101ginis, f.",
+    "English":"Carthage (a city in North Africa)"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"f\u0101bula, -ae, f.",
+    "English":"story, tale; play"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"imper\u0101tor, imper\u0101t\u014dris, m.",
+    "English":"general, commander-in-chief, emperor"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"imperium, -i\u012b, n.",
+    "English":"power to command, supreme power, authority, command, control"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"perfugium, -i\u012b, n.",
+    "English":"refuge, shelter"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"servus, -\u012b, m.",
+    "English":"slave"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"serv\u0101, -ae, f.",
+    "English":"slave"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"s\u014dl\u0101cium, -i\u012b, n.",
+    "English":"comfort, relief"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"vulnus, vulneris, n.",
+    "English":"wound"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"prefix",
+    "Lang":"r\u0113-, red-",
+    "English":"again, back"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"conjunction",
+    "Lang":"ut (+ ind\u012bc.)",
+    "English":"just as, when"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"adverb",
+    "Lang":"poste\u0101",
+    "English":"afterwards"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"accipi\u014d, accipere, acc\u0113p\u012b, acceptum",
+    "English":"to take (to one's self), receive, accept"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"excipi\u014d, excipere, exc\u0113p\u012b, exceptum",
+    "English":"to take out, except; take, receive, capture"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"recipi\u014d, recipere, rec\u0113p\u012b, receptum",
+    "English":"to take back, regain, admit, receive"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"pell\u014d, pellere, pepul\u012b, pulsum",
+    "English":"to strike, push, drive out, banish"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"expell\u014d, expellere, expul\u012b, expulsum",
+    "English":"to drive out, expel, banish"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"n\u0101rr\u014d, n\u0101rr\u0101re, n\u0101rr\u0101v\u012b, n\u0101rr\u0101tum",
+    "English":"to tell, report, narrate"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"quaer\u014d, quaerere, quaes\u012bv\u012b, quaes\u012btum",
+    "English":"to seek, look for, strive for; ask, inquire, inquire into"
+  },
+  {
+    "Chapter":24.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"r\u012bde\u014d, r\u012bd\u0113re, r\u012bs\u012b, r\u012bsum",
+    "English":"to laugh, laugh at"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"lingu\u0101, -ae, f.",
+    "English":"tongue; language"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adjective",
+    "Lang":"fer\u014dx",
+    "English":"fierce, savage (genitive ferocis)"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adjective",
+    "Lang":"fid\u0113lis, fid\u0113le",
+    "English":"faithful, loyal"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adjective",
+    "Lang":"geminus, -\u0101, -um",
+    "English":"twin"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adjective",
+    "Lang":"sapi\u0113ns",
+    "English":"wise, judicious; (as a noun) a wise man, philosopher (genitive sapientis)"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adjective",
+    "Lang":"ultimus, -\u0101, -um",
+    "English":"farthest, extreme; last, final"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adverb",
+    "Lang":"dehinc",
+    "English":"then"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"adverb",
+    "Lang":"h\u012bc",
+    "English":"here"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"ait, -, -, -",
+    "English":"he says, they say, assert (or aiunt)"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"cr\u0113d\u014d, cr\u0113dere, cr\u0113did\u012b, cr\u0113ditum",
+    "English":"to believe, trust"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"iace\u014d, iacere, iacu\u012b, -",
+    "English":"to lie, lie prostrate, lie dead"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"neg\u014d, neg\u0101re, neg\u0101v\u012b, neg\u0101tum",
+    "English":"to deny, say that...not"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"nesci\u014d, nesc\u012bre, nesc\u012bv\u012b, nesc\u012btum",
+    "English":"not to know, be ignorant"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"n\u016bnti\u014d, n\u016bnti\u0101re, n\u016bnti\u0101v\u012b, n\u016bnti\u0101tum",
+    "English":"to announce, report, relate"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"patefaci\u014d, patefacere, patef\u0113c\u012b, patefactum",
+    "English":"to make open, open; disclose, expose"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"put\u014d, put\u0101re, put\u0101v\u012b, put\u0101tum",
+    "English":"to clean, trim; reckon, suppose, judge, think, imagine"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"sp\u0113r\u014d, sp\u0113r\u0101re, sp\u0113r\u0101v\u012b, sp\u0113r\u0101tum",
+    "English":"to hope for, hope"
+  },
+  {
+    "Chapter":25.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"suscipi\u014d, suscipere, susc\u0113p\u012b, susceptum",
+    "English":"to undertake"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"c\u0113na, -ae, f.",
+    "English":"dinner"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"forum, -\u012b, n.",
+    "English":"marketplace, forum"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"l\u0113x, l\u0113gis, f.",
+    "English":"law, statute"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"l\u012bmen, l\u012bminis, n.",
+    "English":"threshold"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"l\u016bx, l\u016bc\u012bs, f.",
+    "English":"light"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"m\u0113ns\u0101, -ae, f.",
+    "English":"table, dining, dish, course (mensa secunda: dessert)"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"nox, noctis, f.",
+    "English":"night"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"somnus, -\u012b, m.",
+    "English":"sleep"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"pronoun, adjective",
+    "Lang":"qu\u012bdam, quaedam, quiddam",
+    "English":"(pron.) a certain one, certain thing, someone, something; (adj.) a certain, some"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adjective",
+    "Lang":"pud\u012bcus, -\u0101, -um",
+    "English":"modest, chaste"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adjective",
+    "Lang":"superbus, -\u0101, -um",
+    "English":"arrogant, overbearing, haughty, proud"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adjective",
+    "Lang":"tr\u012bst\u012bs, tr\u012bste",
+    "English":"sad, sorrowful; joyless, grim, severe"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adjective",
+    "Lang":"turpis, turpe",
+    "English":"ugly, shameful, base, disgraceful"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adjective",
+    "Lang":"urb\u0101nus, -\u0101, -um",
+    "English":"of the city, urban, urbane, elegant"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"preposition",
+    "Lang":"prae",
+    "English":"in front of, before (takes ablative)"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adverb, conjunction",
+    "Lang":"quam",
+    "English":"(after comparatives) than; (with superlatives) as...as possible (e.g. quam fortissimus, as great as possible)"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"adverb",
+    "Lang":"tantum",
+    "English":"only"
+  },
+  {
+    "Chapter":26.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"inv\u012bt\u014d, inv\u012bt\u0101re, inv\u012bt\u0101v\u012b, inv\u012bt\u0101tum",
+    "English":"to entertain, invite, summon"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"d\u0113lect\u0101ti\u014d, d\u0113lect\u0101ti\u014dnis, f.",
+    "English":"delight, pleasure, enjoyment"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"nep\u014ds, nep\u014dt\u012bs, m.",
+    "English":"grandson, descendant"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"s\u014dl, s\u014dlis, m.",
+    "English":"sun"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"d\u012blig\u0113ns",
+    "English":"diligent, careful (genitive diligentis)"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"dissimilis, dissimile",
+    "English":"unlike, different"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"gracilis, gracil\u0113",
+    "English":"slender, thin"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"humilis, humile",
+    "English":"lowly, humble"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"maior, -i\u016bs",
+    "English":"greater, older; (plural) ancestors"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"pr\u012bmus, -\u0101, -um",
+    "English":"first, foremost, chief, principal"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"quot",
+    "English":"how many, as many as (indeclinable)"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"similis, simile",
+    "English":"similar (to), like, resembling"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"superus, -\u0101, -um",
+    "English":"above, upper"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"\u016btilis, \u016btile",
+    "English":"useful, advantageous"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"melior, -i\u016bs",
+    "English":"better"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"peior, -i\u016bs",
+    "English":"worse"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"pl\u016bs",
+    "English":"more (NB no masc. and fem. or dat. sing; abl. sing. plure, gen. plur. plurium, neut. pl. plura)"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"minor, minus",
+    "English":"smaller"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"prior, -i\u016bs",
+    "English":"former"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"superior, -i\u016bs",
+    "English":"higher"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"optimus, -\u0101, -um",
+    "English":"best"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"maximus, -\u0101, -um",
+    "English":"greatest"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"pessimus, -\u0101, -um",
+    "English":"worst"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"pl\u016brimus, -\u0101, -um",
+    "English":"most"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"minimus, -\u0101, -um",
+    "English":"smallest"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"summus, -\u0101, -um",
+    "English":"highest, furthest"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"adjective",
+    "Lang":"supr\u0113mus, -\u0101, -um",
+    "English":"highest, last"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"p\u014dn\u014d, p\u014dnere, posu\u012b, positum",
+    "English":"to put, place, set"
+  },
+  {
+    "Chapter":27.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"prob\u014d, prob\u0101re, prob\u0101v\u012b, prob\u0101tum",
+    "English":"to test, approve, recommend"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"arma, -\u014drum, n.",
+    "English":"arms, weapons (always plural)"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"cursus, -us, m.",
+    "English":"running, race; course"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"l\u016bna, -ae, f.",
+    "English":"moon"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"occ\u0101si\u014d, occ\u0101si\u014dnis, f.",
+    "English":"occasion, opportunity"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"par\u0113ns, parent\u012bs, m. or f.",
+    "English":"parent"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"st\u0113lla, -ae, f.",
+    "English":"star, planet"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"vesper, vesperis, m.",
+    "English":"evening (genitive singular may also be vesperi)"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"adjective",
+    "Lang":"mortuus, -\u0101, -um",
+    "English":"dead"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"adjective",
+    "Lang":"pr\u012bnceps",
+    "English":"chief, foremost; (m. or f. noun) leader, emperor (genitive principis)"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"conjunction",
+    "Lang":"ut (+ subj.)",
+    "English":"in order that, so that, that, in order to, so as to, to; (with indicative) as, when"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"adverb, conjunction",
+    "Lang":"n\u0113",
+    "English":"not; in order that...not, that...not, in order not to"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"c\u0113d\u014d, c\u0113dere, cess\u012b, cessum",
+    "English":"to go, withdraw; yield to, grant, submit"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"d\u0113dic\u014d, d\u0113dic\u0101re, d\u0113dic\u0101v\u012b, d\u0113dic\u0101tum",
+    "English":"to dedicate"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"ege\u014d, eg\u0113re, egu\u012b, -",
+    "English":"to need, lack, want"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"exple\u014d, expl\u0113re, expl\u0113v\u012b, expl\u0113tum",
+    "English":"to fill, fill up, complete"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"praest\u014d, praest\u0101re, praestit\u012b, praestitum",
+    "English":"to excel; exhibit, show, offer, supply, furnish"
+  },
+  {
+    "Chapter":28.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"tace\u014d, tac\u0113re, tacu\u012b, tacitum",
+    "English":"to be silent, leave unmentioned"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"f\u0101tum, -\u012b, n.",
+    "English":"fate, death"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"ingenium, -i\u012b, n.",
+    "English":"nature, innate talent"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"noun (3i)",
+    "Lang":"moenia, moenium, n.",
+    "English":"walls of a city (always plural)"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"n\u0101ta, -ae, f.",
+    "English":"daughter"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"\u014dsculum, -\u012b, n.",
+    "English":"kiss"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"s\u012bdus, s\u012bderis, n.",
+    "English":"constellation, star"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adjective",
+    "Lang":"dignus, -\u0101, -um",
+    "English":"worthy, worthy of"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adjective",
+    "Lang":"d\u016brus, -\u0101, -um",
+    "English":"hard, harsh, rough, stern, unfeeling, hardy, difficult"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adjective",
+    "Lang":"tantus, -\u0101, -um",
+    "English":"so large, so great, of such a size"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adverb",
+    "Lang":"d\u0113nique",
+    "English":"at last, finally, lastly"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adverb",
+    "Lang":"ita",
+    "English":"so, thus"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adverb",
+    "Lang":"quidem",
+    "English":"indeed, certainly, at least, even (ne...quidem: not...even)"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adverb",
+    "Lang":"s\u012bc",
+    "English":"so, thus"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adverb",
+    "Lang":"tam",
+    "English":"so, to such a degree (tam...quam: so...as)"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"adverb",
+    "Lang":"v\u0113r\u014d",
+    "English":"in truth, indeed, to be sure, however"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"cond\u014d, condere, condid\u012b, conditum",
+    "English":"to put together, put into, store; found, establish"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"contend\u014d, contendere, contend\u012b, contentum",
+    "English":"to strive, struggle, contend; hasten"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"molli\u014d, moll\u012bre, moll\u012bv\u012b, moll\u012btum",
+    "English":"to soften; make calm, make less hostile"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"pugn\u014d, pugn\u0101re, pugn\u0101v\u012b, pugn\u0101tum",
+    "English":"to fight"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"responde\u014d, respond\u0113re, respond\u012b, resp\u014dnsum",
+    "English":"to answer"
+  },
+  {
+    "Chapter":29.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"surg\u014d, surgere, surr\u0113x\u012b, surrectum",
+    "English":"to get up, arise"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"honor, hon\u014dris, m.",
+    "English":"honor, esteem; public office"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adjective",
+    "Lang":"c\u0113ter\u012b, -ae, -\u0101",
+    "English":"the remaining, the rest, the other, all the others (always plural)"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adjective",
+    "Lang":"quantus, -\u0101, -um",
+    "English":"how large, how great, how much"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adjective",
+    "Lang":"r\u012bdiculus, -\u0101, -um",
+    "English":"laughable, ridiculous"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adjective",
+    "Lang":"v\u012bvus, -\u0101, -um",
+    "English":"alive, living"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adverb",
+    "Lang":"f\u016brtim",
+    "English":"stealthily, secretly"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adverb",
+    "Lang":"mox",
+    "English":"soon"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adverb",
+    "Lang":"pr\u012bm\u014d",
+    "English":"at first, at the beginning"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adverb",
+    "Lang":"repente",
+    "English":"suddenly"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adverb",
+    "Lang":"unde",
+    "English":"whence, from what, from which place, from which, from whom"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"adverb, conjunction",
+    "Lang":"utrum...an",
+    "English":"whether...or"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"bib\u014d, bibere, bib\u012b, -",
+    "English":"to drink"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"cogn\u014dsc\u014d, cogn\u014dscere, cogn\u014dv\u012b, cognitum",
+    "English":"to become acquainted with, learn, recognize; (in perf.) know"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"comprehend\u014d, comprehendere, comprehend\u012b, compreh\u0113nsum",
+    "English":"to grasp, seize, arrest; comprehend, understand"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"c\u014dns\u016bm\u014d, c\u014dns\u016bmere, c\u014dns\u016bmps\u012b, c\u014dns\u016bmptum",
+    "English":"to consume, use up"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"dubit\u014d, dubit\u0101re, dubit\u0101v\u012b, dubit\u0101tum",
+    "English":"to doubt, hesitate"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"exp\u014dn\u014d, exp\u014dnere, exposu\u012b, expositum",
+    "English":"to set forth, explain, expose"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"minu\u014d, minuere, minu\u012b, min\u016btum",
+    "English":"to lessen, diminish"
+  },
+  {
+    "Chapter":30.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"rog\u014d, rog\u0101re, rog\u0101v\u012b, rog\u0101tum",
+    "English":"to ask"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"as, assis, m.",
+    "English":"an as (a small copper coin, roughly equivalent to a penny)"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"auxilium, -i\u012b, n.",
+    "English":"aid, help"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"digitus, -\u012b, m.",
+    "English":"finger, toe"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"elephantus, -\u012b, m.",
+    "English":"elephant"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"exsilium, -i\u012b, n.",
+    "English":"exile, banishment"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"invidia, -ae, f.",
+    "English":"envy, jealousy, hatred"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"r\u016bmor, r\u016bm\u014dris, m.",
+    "English":"rumor, gossip"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"v\u012bnum, -\u012b, n.",
+    "English":"wine"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"adjective",
+    "Lang":"mediocris, medicre",
+    "English":"ordinary, moderate, mediocre"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"conjunction",
+    "Lang":"cum",
+    "English":"(with subj.) when, since, although; (with indic.) when"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"preposition",
+    "Lang":"apud",
+    "English":"among, in the presence of, at the house of (takes accusative)"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"adverb",
+    "Lang":"semel",
+    "English":"a single time, once, once and for all, simultaneously"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"adverb",
+    "Lang":"usque",
+    "English":"all the way, up (to), even (to), continuously, always"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"dole\u014d, dol\u0113re, dolu\u012b, dolit\u016brum",
+    "English":"to grieve, suffer, hurt, give pain"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"dormi\u014d, dorm\u012bre, dorm\u012bv\u012b, dorm\u012btum",
+    "English":"to sleep"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"fer\u014d, ferre, tul\u012b, l\u0101tum",
+    "English":"to bear, carry, bring; suffer, endure, tolerate; say, report"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"adfer\u014d, adferre, attul\u012b, all\u0101tum",
+    "English":"to bring to"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"c\u014dnfer\u014d, c\u014dnferre, contul\u012b, coll\u0101tum",
+    "English":"to bring together, compare; confer, bestow (se conferre: betake onself, go)"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"offer\u014d, offerre, obtul\u012b, obl\u0101tum",
+    "English":"to offer"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"refer\u014d, referre, rettul\u012b, rel\u0101tum",
+    "English":"to carry back, bring back; repeat, answer, report"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"invide\u014d, invid\u0113re, inv\u012bd\u012b, inv\u012bsum",
+    "English":"to be envious; to look at with envy, envy, be jealous of"
+  },
+  {
+    "Chapter":31.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"occ\u012bd\u014d, occ\u012bdere, occ\u012bd\u012b, occ\u0101sum",
+    "English":"to fall down; die; set"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"c\u016bst\u014ddia, -ae, f.",
+    "English":"protection, custody; (plural) guards"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"exercitus, -us, m.",
+    "English":"army"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"paupert\u0101s, paupert\u0101tis, f.",
+    "English":"poverty, humble circumstance"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adjective",
+    "Lang":"d\u012bves",
+    "English":"rich (genitive divitis or ditis)"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adjective",
+    "Lang":"p\u0101r",
+    "English":"equal, like (genitive paris)"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adjective",
+    "Lang":"pauper",
+    "English":"of small means, poor (genitive pauperis)"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"conjunction",
+    "Lang":"dummodo",
+    "English":"(with subj.) provided that, so long as"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"long\u0113",
+    "English":"far"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"l\u012bber\u0113",
+    "English":"freely"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"pulchr\u0113",
+    "English":"beautifully"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"fortiter",
+    "English":"bravely"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"celeriter",
+    "English":"quickly"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"\u0101criter",
+    "English":"keenly"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"f\u0113l\u012bciter",
+    "English":"happily"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"sapienter",
+    "English":"wisely"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"facile",
+    "English":"easily"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"bene",
+    "English":"well"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"male",
+    "English":"badly"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"multum",
+    "English":"much"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"magnopere",
+    "English":"greatly"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"parum",
+    "English":"little, not very (much)"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"adverb",
+    "Lang":"di\u016b",
+    "English":"for a long time"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"m\u0101l\u014d, malle, m\u0101lu\u012b, -",
+    "English":"to want (something) more, instead; prefer"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"n\u014dl\u014d, n\u014dlle, n\u014dlu\u012b, -",
+    "English":"to not...wish, be unwilling"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"pate\u014d, pat\u0113re, patu\u012b, -",
+    "English":"to be open, lie open, be accessible, be evident"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"praebe\u014d, praeb\u0113re, praebu\u012b, praebitum",
+    "English":"to offer, provide"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"pr\u014dmitt\u014d, pr\u014dmittere, pr\u014dm\u012bs\u012b, pr\u014dmissum",
+    "English":"to send forth; promise"
+  },
+  {
+    "Chapter":32.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"vol\u014d, velle, volu\u012b, -",
+    "English":"to wish, want, be willing, will"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"initium, -i\u012b, n.",
+    "English":"beginning, commencement"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"ops, opis, f.",
+    "English":"help, aid; (plural) power, resources, wealth"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"philosophus, -\u012b, m.",
+    "English":"philosopher"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"philosopha, -ae, f.",
+    "English":"philosopher"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"pl\u0113bs, pl\u0113bis, f.",
+    "English":"the common people, populace, plebians"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"s\u0101l, salis, m.",
+    "English":"salt; wit"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"speculum, -\u012b, n.",
+    "English":"mirror"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"pronoun",
+    "Lang":"quis, quid",
+    "English":"(after si, nisi) anyone, anything, someone, something"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"adjective",
+    "Lang":"candidus, -\u0101, -um",
+    "English":"shining, bright, white; beautiful"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"adjective",
+    "Lang":"merus, -\u0101, -um",
+    "English":"pure, undiluted"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"adjective",
+    "Lang":"su\u0101vis, su\u0101ve",
+    "English":"sweet"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"enclitic, conjunction",
+    "Lang":"-ve",
+    "English":"or"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"interjection",
+    "Lang":"heu",
+    "English":"ah!, alas! (a sound of grief or pain)"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"adverb",
+    "Lang":"subit\u014d",
+    "English":"suddenly"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"rec\u016bs\u014d, rec\u016bs\u0101re, rec\u016bs\u0101v\u012b, rec\u016bs\u0101tum",
+    "English":"to refuse"
+  },
+  {
+    "Chapter":33.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"tr\u0101d\u014d, tr\u0101dere, tr\u0101did\u012b, tr\u0101ditum",
+    "English":"to give over, surrender; hand down, transmit, teach"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"anim\u0101, -ae, f.",
+    "English":"soul, spirit"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"remissi\u014d, remissi\u014dnis, f.",
+    "English":"letting go, release; relaxation"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"v\u014dx, v\u014dcis, f.",
+    "English":"voice, word"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"adjective",
+    "Lang":"adversus, -\u0101, -um",
+    "English":"opposite, adverse"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"adjective",
+    "Lang":"t\u0101lis, t\u0101le",
+    "English":"such, of such a sort"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"interjection",
+    "Lang":"vae",
+    "English":"alas, woe to"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"arbitror, arbitr\u0101r\u012b, arbitr\u0101tus sum, -",
+    "English":"to judge, think"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"c\u014dnor, c\u014dn\u0101r\u012b, c\u014dn\u0101tus sum, -",
+    "English":"to try, attempt"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"cr\u0113sc\u014d, cr\u0113scere, cr\u0113v\u012b, cr\u0113tum",
+    "English":"to increase"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"\u0113gredior, \u0113gred\u012b, \u0113gressus sum, -",
+    "English":"to go out"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"fateor, fat\u0113r\u012b, fassus sum, -",
+    "English":"to confess, admit"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"hortor, hort\u0101r\u012b, hort\u0101tus sum, -",
+    "English":"to encourage, urge"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"loquor, loqu\u012b, loc\u016btus sum, -",
+    "English":"to say, speak, tell"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"m\u014dlior, m\u014dl\u012br\u012b, molitus sum, -",
+    "English":"to work at, build, undertake, plan"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"morior, mor\u012b, mortuus sum, -",
+    "English":"to die"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"n\u0101scor, n\u0101sc\u012b, n\u0101tus sum, -",
+    "English":"to be born; spring forth, arise"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"patior, pat\u012b, pass\u016bs sum, -",
+    "English":"to suffer, endure, permit"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"profic\u012bscor, profic\u012bsc\u012b, profectus sum, -",
+    "English":"to set out, start"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"r\u016bsticor, r\u016bstic\u0101r\u012b, r\u016bstic\u0101tus sum, -",
+    "English":"to live in the country"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"sede\u014d, sed\u0113re, s\u0113d\u012b, sessum",
+    "English":"to sit"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"sequor, sequ\u012b, sec\u016btus sum, -",
+    "English":"to follow"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"spect\u014d, spect\u0101re, spect\u0101v\u012b, spect\u0101tum",
+    "English":"to look at, see"
+  },
+  {
+    "Chapter":34.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"\u016btor, ut\u012b, \u016bsus sum, -",
+    "English":"to use; enjoy, experience"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"aest\u0101s, aest\u0101tis, f.",
+    "English":"summer"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"i\u0101nua, -ae, f.",
+    "English":"door"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"pectus, pectoris, n.",
+    "English":"breast, heart"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"praemium, -i\u012b, n.",
+    "English":"reward, prize"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"adjective",
+    "Lang":"\u012br\u0101tus, -\u0101, -um",
+    "English":"angry"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"antep\u014dn\u014d, antep\u014dnere, anteposu\u012b, antepositum",
+    "English":"to put before, prefer"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"fove\u014d, fov\u0113re, f\u014dv\u012b, f\u014dtum",
+    "English":"to comfort, nurture, cherish"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"ign\u014dsc\u014d, ign\u014dscere, ign\u014dv\u012b, ign\u014dtum",
+    "English":"to grant pardon to, forgive"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"imper\u014d, imper\u0101re, imper\u0101v\u012b, imper\u0101tum",
+    "English":"to give orders to, command"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"m\u012bror, m\u012br\u0101r\u012b, m\u012br\u0101tus sum, -",
+    "English":"to marvel at, admire, wonder"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"noce\u014d, noc\u0113re, nocu\u012b, nocitum",
+    "English":"to do harm to, harm, injure"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"n\u016bb\u014d, n\u016bbere, n\u016bps\u012b, n\u016bptum",
+    "English":"to cover, veil; (with dat.) to be married to, marry"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"parc\u014d, parcere, peperc\u012b, pars\u016brum",
+    "English":"to be lenient to, spare"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"p\u0101re\u014d, p\u0101r\u0113re, p\u0101ru\u012b, -",
+    "English":"to be obedient to, obey"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"persu\u0101de\u014d, persu\u0101d\u0113re, persu\u0101s\u012b, persu\u0101sum",
+    "English":"to make sweet to, persuade"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"place\u014d, plac\u0113re, placu\u012b, placitum",
+    "English":"to be pleasing to, please"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"sapi\u014d, sapere, sap\u012bv\u012b, -",
+    "English":"to have good taste; have good sense, be wise"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"servi\u014d, serv\u012bre, serv\u012bv\u012b, serv\u012btum",
+    "English":"to be a slave to, serve"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"stude\u014d, stud\u0113re, studu\u012b, -",
+    "English":"to direct one's zeal to, be eager for, study"
+  },
+  {
+    "Chapter":35.0,
+    "Part of Speech":"verb (2)",
+    "Lang":"subr\u012bde\u014d, subr\u012bd\u0113re, subr\u012bs\u012b, subr\u012bsum",
+    "English":"to smile upon, to smile down upon"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"cup\u012bd\u014d, cup\u012bdinis, f.",
+    "English":"desire, passion"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"l\u0113ctor, l\u0113ct\u014dris, m.",
+    "English":"reader"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"l\u0113ctr\u012bx, l\u0113ctr\u012bcis, f.",
+    "English":"reader"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"vinculum, -\u012b, n.",
+    "English":"bond, chain, fetter"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"adverb",
+    "Lang":"cot\u012bdi\u0113",
+    "English":"daily, every day"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"adverb",
+    "Lang":"fortasse",
+    "English":"perhaps"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"acc\u0113d\u014d, acc\u0113dere, access\u012b, accessum",
+    "English":"to come (to), approach"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"carp\u014d, carpere, carps\u012b, carptum",
+    "English":"to harvest, pluck, seize"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"c\u014dg\u014d, c\u014dgere, co\u0113g\u012b, co\u0101ctum",
+    "English":"to drive together, bring together, force, compel"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"contemn\u014d, contemnere, contemps\u012b, contemptum",
+    "English":"to despise, scorn"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"contund\u014d, contundere, contud\u012b, cont\u016bsum",
+    "English":"to beat, crush, bruise, destroy"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"c\u016br\u014d, c\u016br\u0101re, c\u016br\u0101v\u012b, c\u016br\u0101tum",
+    "English":"to care for, attend to; heal, cure; take care"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"d\u0113cern\u014d, d\u0113cernere, d\u0113cr\u0113v\u012b, d\u0113cr\u0113tum",
+    "English":"to decide, settle, decree"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"exig\u014d, exigere, ex\u0113g\u012b, ex\u0101ctum",
+    "English":"to drive out, force out, exact; drive through, complete, perfect"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"f\u012b\u014d, fier\u012b, factus sum, -",
+    "English":"to occur, happen, become; be made, be done"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"oblect\u014d, oblect\u0101re, oblect\u0101v\u012b, oblect\u0101tum",
+    "English":"to please, amuse, delight; pass time pleasantly"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"\u014dr\u014d, \u014dr\u0101re, \u014dr\u0101v\u012b, \u014dr\u0101tum",
+    "English":"to speak, plead; beg, beseech, entreat"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"recre\u014d, recre\u0101re, recre\u0101v\u012b, recre\u0101tum",
+    "English":"to restore, revive; refresh, cheer"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"requ\u012br\u014d, requ\u012brere, requ\u012bs\u012bv\u012b, requ\u012bs\u012btum",
+    "English":"to seek, ask for, miss, need, require"
+  },
+  {
+    "Chapter":36.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"ser\u0113n\u014d, ser\u0113n\u0101re, ser\u0113n\u0101v\u012b, ser\u0113n\u0101tum",
+    "English":"to make clear, brighten; cheer up, soothe"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"Ath\u0113nae, -arum, f.",
+    "English":"Athens (always plural)"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"domus, -us, f.",
+    "English":"house, home (NB 3 special uses and endings: domi -at home; domo from home; domum - to home)"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"humus, -\u012b, f.",
+    "English":"ground, earth, soil"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"iter, itineris, n.",
+    "English":"road, route, journey"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"r\u016bs, r\u016bris, n.",
+    "English":"the country, countryside"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"Syr\u0101c\u016bsae, -arum, f.",
+    "English":"Syracuse (always plural)"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"adjective",
+    "Lang":"abs\u0113ns",
+    "English":"absent, away (gen. absentis)"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"adjective",
+    "Lang":"gr\u0101tus, -\u0101, -um",
+    "English":"pleasing, agreeable; grateful"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"adjective",
+    "Lang":"id\u014dneus, -\u0101, -um",
+    "English":"suitable, fit, appropriate"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"adjective",
+    "Lang":"imm\u014dtus, -\u0101, -um",
+    "English":"unmoved, unchanged, unrelenting"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"adverb",
+    "Lang":"foris",
+    "English":"out of doors, outside"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"e\u014d, \u012bre, i\u012b, itum",
+    "English":"to go"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"abe\u014d, ab\u012bre, abi\u012b, abitum",
+    "English":"to go away, depart"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"ade\u014d, ad\u012bre, adi\u012b, aditum",
+    "English":"to go to, approach"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"exe\u014d, ex\u012bre, exi\u012b, exitum",
+    "English":"to go out, exit"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"ine\u014d, in\u012bre, ini\u012b, initum",
+    "English":"to go in, enter"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"obe\u014d, ob\u012bre, obi\u012b, obitum",
+    "English":"to go up against, meet; die"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"pere\u014d, per\u012bre, peri\u012b, per\u012btum",
+    "English":"to pass away, be destroyed, perish"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"rede\u014d, red\u012bre, redi\u012b, reditum",
+    "English":"to go back, return"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (3i)",
+    "Lang":"interfici\u014d, interficere, interf\u0113c\u012b, interfectum",
+    "English":"to kill, murder"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"licet, lic\u0113re, licuit, -",
+    "English":"(impersonal) it is permitted, one may"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"peregr\u012bnor, peregr\u012bn\u0101r\u012b, peregr\u012bn\u0101tus sum, -",
+    "English":"to travel abroad, wander"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"requi\u0113sc\u014d, requi\u0113scere, requi\u0113v\u012b, requi\u0113tum",
+    "English":"to rest"
+  },
+  {
+    "Chapter":37.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"sole\u014d, sol\u0113re, solitus sum, -",
+    "English":"to be accustomed"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"arbor, arboris, f.",
+    "English":"tree"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"dignit\u0101s, dignit\u0101tis, f.",
+    "English":"merit, prestige, dignity"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"dolor, dol\u014dris, m.",
+    "English":"pain, grief"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"odium, -i\u012b, n.",
+    "English":"hatred"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"opus, operis, n.",
+    "English":"a work, task; deed, accomplishment"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"\u014dr\u0101ti\u014d, \u014dr\u0101ti\u014dnis, f.",
+    "English":"speech"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"p\u0113s, pedis, m.",
+    "English":"lower leg, foot"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"sator, sat\u014dris, m.",
+    "English":"sower, planter; begetter, father; founder"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"adjective",
+    "Lang":"firmus, -\u0101, -um",
+    "English":"firm, strong, reliable"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"adjective",
+    "Lang":"\u012bnfirmus, -\u0101, -um",
+    "English":"not strong, weak, feeble"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"adjective",
+    "Lang":"m\u012br\u0101bilis, m\u012br\u0101bile",
+    "English":"amazing, wondrous, remarkable"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"adjective",
+    "Lang":"pr\u012bstinus, -\u0101, -um",
+    "English":"ancient; former, previous"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"adjective",
+    "Lang":"subl\u012bmis, subl\u012bm\u0113",
+    "English":"elevated, lofty; heroic, noble"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"conjunction",
+    "Lang":"ets\u012b",
+    "English":"even if, although"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"preposition",
+    "Lang":"erg\u0101",
+    "English":"toward (takes accusative)"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"adverb",
+    "Lang":"libenter",
+    "English":"with pleasure, gladly"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"impedi\u014d, imped\u012bre, imped\u012bv\u012b, imped\u012btum",
+    "English":"to impede, hinder, prevent"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"metu\u014d, metuere, metu\u012b, -",
+    "English":"to fear, dread"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"queror, quer\u012b, questus sum, -",
+    "English":"to complain, lament"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"recogn\u014dsc\u014d, recogn\u014dscere, recogn\u014dv\u012b, recognitum",
+    "English":"to recognize, recollect"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"suspend\u014d, suspendere, suspend\u012b, susp\u0113nsum",
+    "English":"to hang up, suspend; interrupt"
+  },
+  {
+    "Chapter":38.0,
+    "Part of Speech":"verb (3)",
+    "Lang":"v\u0113nd\u014d, v\u0113ndere, v\u0113ndid\u012b, v\u0113nditum",
+    "English":"to sell"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"aedificium, -i\u012b, n.",
+    "English":"building, structure"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"ini\u016bria, -ae, f.",
+    "English":"injustice, injury, wrong"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"mulier, mulieris, f.",
+    "English":"woman"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"tr\u0101nsitus, -us, m.",
+    "English":"passing over, transit, transition"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"ventus, -\u012b, m.",
+    "English":"wind"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"adjective",
+    "Lang":"cupidus, -\u0101, -um",
+    "English":"desirous, eager, fond; (with gen.) desirous of, eager for"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"adjective",
+    "Lang":"l\u012bber\u0101lis, l\u012bber\u0101le",
+    "English":"of or relating to a free person; worthy of a free man, decent, liberal; generous"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"adjective",
+    "Lang":"necesse",
+    "English":"necessary, inevitable (indeclinable)"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"adjective",
+    "Lang":"vetus",
+    "English":"old (genitive veteris)"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"adverb, conjunction",
+    "Lang":"quasi",
+    "English":"as if, as it were"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"ambul\u014d, ambul\u0101re, ambul\u0101v\u012b, ambul\u0101tum",
+    "English":"to walk"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"experior, exper\u012br\u012b, expertus sum, -",
+    "English":"to try, test, experience"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"l\u012bb\u014d, l\u012bb\u0101re, l\u012bb\u0101v\u012b, l\u012bb\u0101tum",
+    "English":"to pour a libation of, pour a libation on; to pour ritually; to sip, touch gently"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"oportet, oport\u0113re, oportuit, -",
+    "English":"it is proper, right, necessary"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"oppugn\u014d, oppugn\u0101re, oppugn\u0101v\u012b, oppugn\u0101tum",
+    "English":"to fight against, attack, assault, assail"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"\u014drn\u014d, \u014drn\u0101re, \u014drn\u0101v\u012b, \u014drn\u0101tum",
+    "English":"to equip, furnish, adorn"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"pernoct\u014d, pernoct\u0101re, pernoct\u0101v\u012b, pernoct\u0101tum",
+    "English":"to spend the night, occupy the night"
+  },
+  {
+    "Chapter":39.0,
+    "Part of Speech":"verb (irregular)",
+    "Lang":"tr\u0101nse\u014d, tr\u0101ns\u012bre, tr\u0101nsi\u012b, tr\u0101nsitum",
+    "English":"to go across, cross; pass over, ignore"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (3)",
+    "Lang":"aes, \u0101eris, n.",
+    "English":"bronze"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"dominus, -\u012b, m.",
+    "English":"master (of a household), lord"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"domin\u0101, -ae, f.",
+    "English":"mistress, lady"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"lacrima, -ae, f.",
+    "English":"tear"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (1)",
+    "Lang":"m\u0113ta, -ae, f.",
+    "English":"turning post, goal; limit"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"monumentum, -\u012b, n.",
+    "English":"monument"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"n\u0101sus, -\u012b, m.",
+    "English":"nose"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (2)",
+    "Lang":"saxum, -\u012b, n.",
+    "English":"rock, stone"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"noun (4)",
+    "Lang":"vultus, -us, m.",
+    "English":"countenance, face"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adjective",
+    "Lang":"i\u016bstus, -\u0101, -um",
+    "English":"just, right"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adjective",
+    "Lang":"tot",
+    "English":"so many (indeclinable)"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"preposition",
+    "Lang":"praeter",
+    "English":"besides, except; beyond past (takes accusative)"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adverb",
+    "Lang":"n\u014dnne",
+    "English":"yes question (introduces questions expecting the answer yes)"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adverb",
+    "Lang":"num",
+    "English":"no question; whether (introduces questions expecting the answer no; introduces indirect questions and means whether)"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adverb",
+    "Lang":"omn\u012bn\u014d, adv.",
+    "English":"wholly, entirely, altogether"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adverb",
+    "Lang":"postr\u0113mum",
+    "English":"after all, finally; for the last time"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"adverb",
+    "Lang":"qu\u012bn",
+    "English":"indeed, in fact"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"explic\u014d, explic\u0101re, explic\u0101v\u012b, explic\u0101tum",
+    "English":"to unfold, explain; spread out, deploy"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"fat\u012bg\u014d, fat\u012bg\u0101re, fat\u012bg\u0101v\u012b, fat\u012bg\u0101tum",
+    "English":"to weary, tire out"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"for, f\u0101r\u012b, f\u0101tus sum, -",
+    "English":"to speak (prophetically), talk, foretell"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"verb (1)",
+    "Lang":"op\u012bnor, op\u012bn\u0101r\u012b, op\u012bn\u0101tus sum, -",
+    "English":"to suppose"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"reperi\u014d, reper\u012bre, repper\u012b, repertum",
+    "English":"to find, discover, learn, get"
+  },
+  {
+    "Chapter":40.0,
+    "Part of Speech":"verb (4)",
+    "Lang":"vereor, ver\u0113r\u012b, vertus sum, -",
+    "English":"to show reverence for, respect; be afraid of, fear"
+  }
+]

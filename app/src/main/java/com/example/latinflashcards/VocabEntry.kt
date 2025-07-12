@@ -1,10 +1,12 @@
-// VocabEntry.kt
-package com.yourapp.latinflashcards
+package com.example.latinflashcards
 
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class VocabEntry(
-    val chapter: Int,
-    val speechPart: String,
-    val latin: String,
-    val english: String,
-    val language: String = "Latin"
+    @SerialName("Chapter") val chapter: Double,
+    @SerialName("Part of Speech") val speechPart: String,
+    @SerialName("Lang") val latin: String,
+    @SerialName("English") val english: String
 )
